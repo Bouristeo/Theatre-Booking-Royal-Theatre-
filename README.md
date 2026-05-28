@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28350251/README.md)
 # Theatre Booking System
 
 ## Περιγραφή
